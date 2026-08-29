@@ -48,9 +48,9 @@ The project provides a simple and visual way to understand the humidity level of
 ## 📸 System Interface
 
 <p align="center">
-  <img src="readme/imagens/GaloDoTempo.png" width="100%">
-  <img src="readme/imagens/GaloDoTempo.png" width="100%">
-  <img src="readme/imagens/GaloDoTempo.png" width="100%">
+  <img src="readme/imagens/Galo1.png" width="100%">
+  <img src="readme/imagens/Galo2.png" width="100%">
+  <img src="readme/imagens/Galo3.png" width="100%">
 </p>
 
 <br>
