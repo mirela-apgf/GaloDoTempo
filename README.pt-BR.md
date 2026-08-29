@@ -48,9 +48,9 @@ O projeto apresenta uma forma simples e visual de identificar o nível de umidad
 ## 📸 Interface do Sistema
 
 <p align="center">
-  <img src="readme/imagens/GaloDoTempo.png" width="100%">
-  <img src="readme/imagens/GaloDoTempo.png" width="100%">
-  <img src="readme/imagens/GaloDoTempo.png" width="100%">
+  <img src="readme/imagens/Galo1.png" width="100%">
+  <img src="readme/imagens/Galo2.png" width="100%">
+  <img src="readme/imagens/Galo3.png" width="100%">
 </p>
 
 <br>
