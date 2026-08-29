@@ -4,7 +4,7 @@
   <a href="./README.pt-BR.md">Português 🇧🇷</a>
 </p>
 
-# 🐓 Galo do Tempo
+# 🐔 Galo do Tempo
 
 IoT and Cloud Computing project inspired by the traditional weather rooster, combining a DHT11 sensor, ESP32, cloud data storage, and a web interface.
 
