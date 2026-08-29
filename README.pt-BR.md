@@ -4,7 +4,7 @@
   <b>Português 🇧🇷</b>
 </p>
 
-# 🐓 Galo do Tempo
+# 🐔 Galo do Tempo
 
 Projeto de IoT e Computação em Nuvem inspirado no tradicional Galo do Tempo, combinando sensor DHT11, ESP32, armazenamento de dados na nuvem e uma interface web.
 
